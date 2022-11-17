@@ -26,3 +26,4 @@ storeFile=release.jks
 And run: `flutter build apk`.
 
 Or `flutter build apk --target-platform=android-arm` for specific architecture.
+# KampApp
